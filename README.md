@@ -4,8 +4,8 @@ Start storjshare on boot
 ## Usage
 ```console
 env > ~/.env
-cdWatchdogStorj
-chmod +x ~/watchdog.sh
+cd WatchdogStorj
+chmod +x watchdog.sh
 crontab -e
 #add 
 */5 * * * * /home/storj/WatchdogStorj/watchdog.sh
