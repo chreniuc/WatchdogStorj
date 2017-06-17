@@ -3,6 +3,7 @@ Start storjshare on boot
 
 ## Usage
 ```console
+git clone https://github.com/kznamst/WatchdogStorj.git
 env > ~/.env
 cd WatchdogStorj
 chmod +x watchdog.sh
