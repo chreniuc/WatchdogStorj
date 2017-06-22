@@ -1,5 +1,5 @@
 # WatchdogStorj
-Start storjshare on boot
+Start storjshare on boot or check if storjshare daemon isn't start, or the farmer isn't.
 
 ## Usage
 ```console
